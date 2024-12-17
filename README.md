@@ -2,7 +2,7 @@ Express Blog Intro
 ===
 Esercizio 17/12/2024
 ## Consegna
-- Creiamo il nostro blog personale e giorno dopo giorno lo potremo arricchire con nuove funzionalità sulla base di quello che impareremo.
+ Creiamo il nostro blog personale e giorno dopo giorno lo potremo arricchire con nuove funzionalità sulla base di quello che impareremo.
 
 - Creiamo il progetto base con una rotta `/` che ritorna un testo semplice con scritto “Server del mio blog”
 

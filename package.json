@@ -1,0 +1,25 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "Express Blog Intro === Esercizio 17/12/2024 ## Consegna  Creiamo il nostro blog personale e giorno dopo giorno lo potremo arricchire con nuove funzionalità sulla base di quello che impareremo.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "watch": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francesca-Lisi/express-blog-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francesca-Lisi/express-blog-intro/issues"
+  },
+  "homepage": "https://github.com/Francesca-Lisi/express-blog-intro#readme",
+  "dependencies": {
+    "expess": "^0.0.1-security"
+  }
+}
