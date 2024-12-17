@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Francesca-Lisi/express-blog-intro#readme",
   "dependencies": {
-    "expess": "^0.0.1-security"
+    "express": "^4.21.2"
   }
 }
